@@ -25,6 +25,10 @@ h1 {
     color: Steelblue 28
 }
 
+main {
+    max-width: 840px;
+}
+
 main img {
     width: 150px;
     height: auto;
@@ -43,4 +47,17 @@ aside {
     border: 1px solid rgba(0, 0, 0, 0.2);
     padding: 1em;
     background-color: #eee;
-    UTF-8 CRLF CSS Go Live Windsurf: Login Go Live Launchpado Prettier
+    color: #333;
+    text-align: center;
+}
+
+aside img {
+    width: 250px;
+    height: auto;
+}
+
+footer {
+    margin-top: 1em;
+    border-top: 1px solid #000;
+    text-align: center;
+}
